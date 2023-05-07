@@ -1,11 +1,11 @@
-@import "variables";
+@import 'variables';
 h1 {
-    color: $red_color;
-    background-color: $backgr_color;
+  color: $red_color;
+  background-color: $backgr_color;
 }
 
 .size-center {
-    // width: 60%;
-    margin-left:20%;
-    margin-right:20%;
+  // width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
